@@ -2,6 +2,7 @@ Hello my name is Kevin and I will be your trainer
 Hi I am Kaitlyn and I like cats c:
 Hello my name is Dimitry and I like to workout.
 Hello, My name is Craig. I reside in Dallas Texas. 
+Hello, my name is Kyle and I am from Houston, Texas.
 Hello, my name is Anggel. I am from PA. 
 Hello, my name is Bijaya. I am new employee for revature.
 Hello, my name is Joe. I am in Philadelphia, PA.
@@ -13,4 +14,3 @@ Hello, My name is Miguel. I reside in Austin, Texas
 Hi, I'm Aaron from Chicago. I wish I was playing Elden Ring right now.
 Hello, my name is Juan and I like basketball.
 Hello, my name is Martin. I reside in Stone Mountain Georgia.
-
