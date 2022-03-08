@@ -1,9 +1,4 @@
 Hello my name is Dimitry and I like to workout.
 Hello my name is Kevin and I will be your trainer
 Hello, My name is Craig. I reside in Dallas Texas. 
-<<<<<<< HEAD
 Hello, my name is Alex. I live in Spokane Valley, WA.
-=======
-Hello, My name is Miguel. I reside in Austin, Texas
-                                                                                           
->>>>>>> 0cd56475b01cafcc8b5d2a8907a014d2a20e7017
