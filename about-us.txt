@@ -6,5 +6,9 @@ Hello, my name is Alex. I live in Spokane Valley, WA.
 =======
 I'm Jazlyn from Salt Lake City. My favorite color is green.
 Hello, My name is Miguel. I reside in Austin, Texas
+<<<<<<< HEAD
 
 >>>>>>> e1f4b2b4de91e35fb4abc61f3be8fb95793fc0f6
+=======
+Hello, my name is Martin. I reside in Stone Mountain Georgia.
+>>>>>>> b4431834e46692949d343eced806081dd1a947f1
