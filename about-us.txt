@@ -1,5 +1,6 @@
-
-Hello my name is Kevin and I will be your trainer 
+Hello my name is Chris and I like to play basketball
+Hello my name is Dimitry and I like to workout.
+Hello my name is Kevin and I will be your trainer
 Hello, My name is Craig. I reside in Dallas Texas. 
 Hello, my name is Ayan. It's pronounced like Ion.
 Hello, my name is Alex. I live in Spokane Valley, WA.
@@ -18,4 +19,3 @@ Hello, my name is Juan and I like basketball.
 Hello, my name is Martin. I reside in Stone Mountain Georgia.
 Hey, my name is Fentry and I like anime.
 Hello, my name is Ebony. I reside in Mississippi. 
->>>>>>> main
