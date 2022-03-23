@@ -8,4 +8,4 @@
 - Updates go here
 
 ### Jay Mongelos
-- Updates go here
+- I'm watching an Udemy tutorial on the subject, because I'm still shaky on the Spring Framework Concept.
