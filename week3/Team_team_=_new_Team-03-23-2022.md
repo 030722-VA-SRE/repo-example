@@ -1,4 +1,4 @@
-# Team team = new Team()  [a.k.a. Team team]
+# Team team = new Team();    // a.k.a. Team team
 
 ### Aaron Cunanan
 - Updates go here
