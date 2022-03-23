@@ -1,10 +1,10 @@
-#Team team = new Team()  [a.k.a. Team team]
+# Team team = new Team()  [a.k.a. Team team]
 
-###Aaron Cunanan
+### Aaron Cunanan
 - Updates go here
 
-###Ai Gaffney
+### Ai Gaffney
 - Updates go here
 
-###Jay Mongelos
+### Jay Mongelos
 - Updates go here
