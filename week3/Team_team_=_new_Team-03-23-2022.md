@@ -5,7 +5,7 @@
 - Just went over notes today mostly
 
 ### Ai Gaffney
-- Updates go here
+- Reading Spring docs and downloaded base project, getting more note taking in
 
 ### Jay Mongelos
 - I'm watching an Udemy tutorial on the subject, because I'm still shaky on the Spring Framework Concept.
