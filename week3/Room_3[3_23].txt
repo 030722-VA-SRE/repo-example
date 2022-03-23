@@ -1,0 +1,11 @@
+Working on:
+-------------------
+Mahipal Yadav: Refactoring project 0
+
+Jorge Lopez: Refactoring project 0
+
+Miguel Garcia: Refactoring project 0
+
+Stuck on:
+--------------------
+N/A
