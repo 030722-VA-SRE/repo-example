@@ -1,0 +1,5 @@
+Alex Pazmino: Currently working on methods within service files. Will finish Controller and database connection soon.
+
+Kyle Pfunder: Finished implementing Controller and Service files. Beginning to connect to database.
+
+Bijaya Shrestha: Trying to access H2 console
