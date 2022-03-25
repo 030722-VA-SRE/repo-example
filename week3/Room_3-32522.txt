@@ -1,0 +1,11 @@
+Mahipal
+ - working on the controllers
+
+Jorge
+ - working on user login
+
+Samir
+ - working on the contollers
+
+Miguel
+ - working on the flavor model and service

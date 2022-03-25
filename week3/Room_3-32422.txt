@@ -1,0 +1,11 @@
+Samir
+ - Reviewing notes on Spring and outlining project
+
+Jorge
+ - Working on retrieving information from the database using the controller
+
+Mahipal
+ - Creating project 1 and working on model package
+
+Miguel
+ - Planning classes and going over Spring notes
