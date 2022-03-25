@@ -4,6 +4,19 @@ Hello my name is Chris and I like to play basketball
 Hello my name is Dimitry and I like to workout.
 Hello my name is Kevin and I will be your trainer
 Hello, My name is Craig. I reside in Dallas Texas. 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello, my name is Alex. I live in Spokane Valley, WA.
+=======
+I'm Jazlyn from Salt Lake City. My favorite color is green.
+Hello, My name is Miguel. I reside in Austin, Texas
+<<<<<<< HEAD
+
+>>>>>>> e1f4b2b4de91e35fb4abc61f3be8fb95793fc0f6
+=======
+Hello, my name is Martin. I reside in Stone Mountain Georgia.
+>>>>>>> b4431834e46692949d343eced806081dd1a947f1
+=======
 Hello, my name is Ayan. It's pronounced like Ion
 Hello, my name is Alex. I live in Spokane Valley, WA.
 Hello, my name is Kyle and I am from Houston, Texas.
@@ -24,3 +37,4 @@ Hello, my name is Ebony. I reside in Mississippi.
 Hello, my name is Mahipal. I reside in Texas.
 Hello, my name is Ebony. I reside in Mississippi.
 Hello, my name is Samir. I'm living in NYC.
+>>>>>>> 03d1d9e45663c13c56f99f7052c6d3c4b417e578
