@@ -1,0 +1,4 @@
+AyanW - Getting H2 to work, loadind sql data, refactoring fields, researching.
+FentryM - Studying for QC.
+HenryG - Implementing P0 into P1, working on service layer classes 
+KaitM - Working on FruitService class
