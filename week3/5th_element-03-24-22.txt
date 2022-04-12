@@ -1,0 +1,3 @@
+Alex Pazmino : learning how to associate certain columns works as many to many or many to one.
+Kyle Pfunder :working on transferring project0 to project1 in spring format.
+Bijaya Shrestha : starting and refreshing project1.
