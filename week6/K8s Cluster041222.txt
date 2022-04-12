@@ -1,0 +1,22 @@
+Kaitlyn
+Working setting up Loki and going over notes
+No blockers
+
+Fentry
+creating customer vaules yml file to work with loki stack on grafana
+No blockers
+Kyle
+trying to get promtail and prometheus custom value files set up to work with grafana
+No blockers
+
+Henry
+working with team going over notes from earlier
+attempting to get prometheus working on grafana 
+No blockers
+
+Team 
+Going over Helm notes
+working setting prometheus in grafana with helm
+setting up loki on Helm
+logging into grafana to capture metrics
+No blockers
