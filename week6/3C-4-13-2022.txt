@@ -1,0 +1,5 @@
+Blockers: Ayan currently fixing setup with k8s and grafana.
+
+accomplishments: enabling jenkins through ec2. Alex and Jorge currently running grafana.
+
+tomorrow: work on SLOs, continue with Jenkins, ensure Ayan's grafana connections are working properly.
