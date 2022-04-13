@@ -1,0 +1,9 @@
+Completed 1 on 1s with Kevin, the instructor.
+
+Did group introductions
+  -created group name
+  -created group repository
+  
+Created secret file for kubernetes.
+
+Will be using Jorge's Ninja project1
