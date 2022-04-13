@@ -1,0 +1,28 @@
+What was done yesterday?
+reviewed SRE concepts
+
+What are you doing today?
+Getting testing coverage to 70% in services package
+
+Any blockers?
+No blockers
+
+Kaitlyn
+Working on getting pods running and deployment yml files in Kubernetes
+Working with team to finish testing coverage
+No blockers
+
+Fentry
+Setting up instances in Kubernetes
+Working with team to finish testing coverage
+No blockers
+
+Kyle
+Going over notes working with deployments in Kubernetes
+Working with team to finish testing coverage
+No blockers
+
+Henry
+reviewing Kubernetes features and implentation
+Working with team to finish testing coverage
+No blockers
