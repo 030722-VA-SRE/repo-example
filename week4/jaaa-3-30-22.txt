@@ -1,0 +1,12 @@
+Juan:
+	- Successfully ported p0
+	- Incorporating credentials to p1
+	- Learning about JWT
+Aaron:
+	- Still working on porting p0; working on service layer TDD style, i.e., writing unit tests first
+	- Trying to expand my getAll query options
+Alex: 
+	- Working on establishing database connection.
+Ai:
+	- Working on Project 1, hit a roadblock with creating tables in H2 
+	- Currently working on Test layers for Service and Controllers while I work with Kevin to fix the issue.
