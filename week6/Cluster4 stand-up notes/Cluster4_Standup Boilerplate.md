@@ -6,5 +6,5 @@
 
 ### Ai Gaffney
 
-Troubleshot project issues(deployment on kubernetes)
+
  
