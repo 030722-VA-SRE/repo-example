@@ -1,0 +1,15 @@
+-What did you do yesterday?
+Raised unit testing to 77%
+Reviews SRE concepts
+Discussed possible SLO/SLI for project2
+
+-What did you do today?
+Pushed project image to dockerhub
+pushing dockerhub image to eks namespace
+get visuals for slo's through grafana 
+measuring metrics
+conceptualizing SLI's from prometheus metrics
+
+-Any Blocker?
+None
+
