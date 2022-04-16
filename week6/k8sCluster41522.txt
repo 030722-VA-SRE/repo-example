@@ -1,0 +1,15 @@
+- What did we do today? 
+Pushed project image to dockerhub
+Pushing dockerhub image to eks namespace
+Get visuals for slo's through grafana 
+Measuring metrics
+Conceptualizing SLI's from prometheus metrics
+
+- What are we doing today? 
+Changing applications.yml configuration 
+Changing environment variables in applications.yml
+Temporarily hard coding database login information 
+Searching logs for reason image wont run on cluster
+
+- Any blockers? 
+No 
