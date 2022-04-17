@@ -1,0 +1,5 @@
+Today: Worked on connecting app service to service monitor, defining SLOs, generating metrics for SLIs, and generating a dashboard in Grafana.
+
+Next Time: Work on defining alert threshold, start setting up Jenkins
+
+Blockers: NONE
