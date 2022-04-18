@@ -1,0 +1,11 @@
+- What did you do yesterday? 
+Updated application-prod.yml
+Hard coded login information (for now) 
+Rebuilt image, pushed to dockerHub & got card_shop into cluster
+
+- What are you doing today? 
+Add Promtail running sidecar
+Configure Loki and Prometheus to retrieve logs and all metrics 
+
+- Blockers 
+None
