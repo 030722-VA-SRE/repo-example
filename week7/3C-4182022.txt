@@ -1,0 +1,5 @@
+Today: Adding promtail sidecar, defining alerting thresholds, studying for QC,
+
+Next time: Configuring Jenkins
+
+Blockers: NONE
