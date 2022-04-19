@@ -1,0 +1,15 @@
+- What did you do yesterday? 
+Added Promtail running in a side car 
+Added multiple .yml files to project deployment
+
+
+- What are you doing today? 
+SLO's Selected: 
+  Latency- time it takes to service a request
+  Availability- percentage of un-successful request (error/total) 
+    Custom SLO: Still being decided 
+Create Grafana Dashbboard, start working on Panels
+Start setting up Jenkins Pipeline
+
+- Blockers 
+    041822- cluster was down, couldn't access deployed API
