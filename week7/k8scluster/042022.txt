@@ -1,0 +1,14 @@
+- What did you do yesterday? 
+Research metrics for Grafana
+Jenkins Pipeline Stage: Maven packing
+Created a dashboard
+Decided SLO's
+
+- What are you doing today? 
+Finish the Jenkins Pipeline
+Free space on EC2 memory 
+Create PromQL statements for dashboard panels 
+Add a custom metric to micrometer 
+
+Blockers: 
+None
