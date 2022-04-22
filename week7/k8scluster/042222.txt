@@ -1,0 +1,16 @@
+- What did you do yesterday? 
+Finish Jenkins pipeline requirements
+  Sonar Cloud Test coverage: 74%
+  JUnit Text coverage: 85%
+Start setting up Grafana dashboard panels
+Add project description 
+
+- What are you doing today? 
+Type up SLO document 
+Add more micrometer custom metrics
+Finish Grafana dashboard
+Implement stack trace in application logs 
+Reduce code duplications 
+
+- Blockers: 
+None

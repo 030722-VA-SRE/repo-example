@@ -1,0 +1,15 @@
+- What did you do yesterday? 
+Jenkins Pipeline Stage: Image building 
+Research micrometer custom metrics
+Research PromQL statements for Prometheus panels
+
+- What are you doing today? 
+Finish the Jenkins Pipeline
+Add a micrometer custom metric 
+Implement stack trace in application logs 
+Create PromQL statements for dashboard panels 
+Add Prometheus alert
+
+- Blockers: 
+  042022- Prometheus inside cluster went down, couldn't access metrics in Grafana
+                - self healed over night
