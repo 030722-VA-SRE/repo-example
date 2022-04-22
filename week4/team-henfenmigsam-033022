@@ -1,0 +1,13 @@
+Fentry
+    - Implementing user roles and authorization in project 1.
+
+Samir
+    - 
+
+Henry
+    - Got create, update, update by id, list, and list by id methods implemented for Products.
+    - Plan is to switch to postgres database and work on implementing user model and implementing login and authentication.
+    - No blockers :)
+
+Miguel
+    - Absent
