@@ -7,14 +7,6 @@
 3. *What are your blockers?*
     - [content]
 
-## Juan Alonso
-1. *What did you do yesterday?*
-    - [content]
-2. *What are you doing today?*
-    - [content]
-3. *What are your blockers?*
-    - [content]
-
 ## Aaron Cunanan
 1. *What did you do yesterday?*
     - [content]
@@ -48,14 +40,6 @@
     - [content]
 
 ## Anggel Plansencia
-1. *What did you do yesterday?*
-    - [content]
-2. *What are you doing today?*
-    - [content]
-3. *What are your blockers?*
-    - [content]
-
-## Mahipal Yadav
 1. *What did you do yesterday?*
     - [content]
 2. *What are you doing today?*
